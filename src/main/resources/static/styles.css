@@ -24,3 +24,17 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+  input {
+  width: 100%;
+  padding: 2px 2px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.error {
+color: red;
+}
